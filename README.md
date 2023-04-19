@@ -34,10 +34,10 @@
   - 사용자는 댓글 내용(텍스트)를 작성할 수 있다. 
 
 ## ERD 
-
+![ERD](doc/img/erd.png)
 
 ## Trouble Shooting
-
+[go to the trouble shooting section](doc/TROUBLE_SHOOTING.md)
 
 
 ### Tech Stack
